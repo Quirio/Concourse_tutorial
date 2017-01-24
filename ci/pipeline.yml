@@ -2,7 +2,7 @@ resresources:
 - name: flight-school
   type: git
   source:
-    uri: https://github.com/(your username)/flight-school
+    uri: https://github.com/Quirio/Concourse_tutorial
     branch: master
 
 jobs:
